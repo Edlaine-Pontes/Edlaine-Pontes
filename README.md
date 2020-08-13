@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/Edlaine-Pontes/Edlaine-Pontes/blob/master/image/arquiteta.png">
+    <img src="https://github.com/Edlaine-Pontes/Edlaine-Pontes/blob/master/image/arquiteta.png" width="50%">
 </h1>
 
 <h2> Edlaine Pontes </h2>
